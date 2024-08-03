@@ -2,9 +2,6 @@
 
 This repository contains the frontend code for a Twitter clone web application, built using **HTML** and **CSS**. The project emulates the core features and design of Twitter, providing a static, responsive layout that showcases timelines, tweets, and user profiles.
 
-## Live Demo
-
-You can view the live demo of the project [here](https://shruti-richa.github.io/Twitter-frontend-clone/).
 
 ## Features
 
